@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/liwqd3lnpf3tbpg1?svg=true)](https://ci.appveyor.com/project/Alla1311/datageneratorpatterns)
